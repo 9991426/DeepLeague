@@ -11,7 +11,7 @@ CSV_FILE_PATH = '/Users/flynn/Documents/DeepLeague/data/vod_info.csv'
 with open(CSV_FILE_PATH, 'rt') as csvfile:
     reader = csv.reader(csvfile)
 
-    first_run = True
+    first_run = True 
     check_me = []
     for row in reader:
         # skip CSV header
