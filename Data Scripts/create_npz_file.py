@@ -10,7 +10,7 @@ from paths import  BASE_DATA_PATH
 from socket_stats import get_me_folders_and_label_dict
 import sys
 
-label_dict = {'Lulu': 0, 'Ezreal': 1, 'Rengar': 2, 'Orianna': 3, 'Karma': 4, 'Nautilus': 5, 'Syndra': 6, 'Gragas': 7, 'Elise': 8, 'Ashe': 9, 'Shen': 10, 'LeeSin': 11, 'Graves': 12, 'Caitlyn': 13, 'Malzahar': 14, 'Rumble': 15, 'Jhin': 16, 'Khazix': 17, 'Renekton': 18, 'Thresh': 19, 'Jayce': 20, 'Varus': 21, 'Maokai': 22, 'Taliyah': 23, 'Zyra': 24, 'Sejuani': 25, 'Lucian': 26, 'Tristana': 27, 'JarvanIV': 28, 'Vladimir': 29, 'Nami': 30, 'Janna': 31, 'TahmKench': 32, 'Ahri': 33, 'Xayah': 34, 'Cassiopeia': 35, 'Viktor': 36, 'Rakan': 37, 'Galio': 38, 'Camille': 39, 'Poppy': 40, 'Olaf': 41, 'Ryze': 42, 'KogMaw': 43, 'RekSai': 44, 'Leblanc': 45, 'Kled': 46, 'Ekko': 47, 'Talon': 48, 'Fizz': 49, 'Morgana': 50, 'Sivir': 51, 'Twitch': 52, 'Chogath': 53, 'Ziggs': 54, 'Kennen': 55}
+label_dict = {'Lulu': 0, 'Ezreal': 1, 'Rengar': 2, 'Orianna': 3, 'Karma': 4, 'Nautilus': 5, 'Syndra': 6, 'Gragas': 7, 'Elise': 8, 'Ashe': 9, 'Shen': 10, 'LeeSin': 11, 'Graves': 12, 'Caitlyn': 13, 'Malzahar': 14, 'Rumble': 15, 'Jhin': 16, 'Khazix': 17, 'Renekton': 18, 'Thresh': 19, 'Jayce': 20, 'Varus': 21, 'Maokai': 22, 'Taliyah': 23, 'Zyra': 24, 'Sejuani': 25, 'Lucian': 26, 'Tristana': 27, 'JarvanIV': 28, 'Vladimir': 29, 'Nami': 30, 'Janna': 31, 'TahmKench': 32, 'Ahri': 33, 'Xayah': 34, 'Cassiopeia': 35, 'Viktor': 36, 'Rakan': 37, 'Galio': 38, 'Camille': 39, 'Poppy': 40, 'Olaf': 41, 'Ryze': 42, 'KogMaw': 43, 'RekSai': 44, 'Leblanc': 45, 'Kled': 46, 'Ekko': 47, 'Talon': 48, 'Fizz': 49, 'Morgana': 50, 'Sivir': 51, 'Twitch': 52, 'Chogath': 53, 'Ziggs': 54, 'Kennen': 55, 'Zeri': 56, 'Pyke' : 57, 'Jax' : 58}
 
 
 debug = False
