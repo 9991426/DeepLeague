@@ -18,7 +18,7 @@ from yad2k.models.keras_yolo import yolo_eval, yolo_head
 
 from retrain_yolo import create_model
 
-import youtube_dl
+import youtube_dl 
 
 parser = argparse.ArgumentParser(
     description='Run a YOLO_v2 style detection model on the LoL minimap. Choose')
