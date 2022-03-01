@@ -5,6 +5,7 @@ import sys
 minimap_crop = (805, 1080, 1645, 1920)
 
 # red side crops (left to right)
+red_krugs_extra = (35, 65, 105, 135)
 red_krugs_crop = (35, 65, 105, 135)
 red_red_buff_crop = (55, 95, 110, 150)
 red_chickens_crop = (85, 115, 125, 155)
@@ -13,6 +14,7 @@ red_toad_crop = (135, 165, 210, 240)
 red_blue_buff_crop = (125, 165, 180, 220)
 
 # blue side crops (left to right)
+blue_krugs_extra = (105, 135, 30, 60)
 blue_toad_crop = (105, 135, 30, 60)
 blue_blue_buff_crop = (105, 145, 55, 95)
 blue_wolves_crop = (135, 165, 55, 85)
